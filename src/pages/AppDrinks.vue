@@ -315,26 +315,4 @@ $quinary-color: #00dbde;
 .p6 .is_active {
 	background-color: $tertiary-color;
 }
-
-// ul.pagination {
-//   --bs-pagination-border-color: black;
-//   .page-item {
-//     .page-link {
-//       color: $secondary-color;
-
-//       &:hover {
-//         background-color: gray;
-//         color: $secondary-color;
-//         border-color: $secondary-color;
-//       }
-//     }
-
-//     &.active {
-//       .page-link {
-//         background-color: gray;
-//         border-color: $secondary-color;
-//       }
-//     }
-//   }
-// }
 </style>
